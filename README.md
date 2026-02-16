@@ -13,3 +13,6 @@ The paper _Guessing Bits: Improved Lattice Attacks on ECDSA with Nonce Leakage_ 
 1. We provide Python code to load the dataset in `GuessingBits_Improved_Lattice_Attacks_on_ECDSA_with_Nonce_Leakage.ipynb`.
 2. This [Google Colab notebook](https://colab.research.google.com/drive/1yQm7nzRHvUin0AGNQxQg1DWK1ODdljdk?usp=sharing) implementation if you're struggling to get `fpylll` running locally.
 
+
+This code works best alongside this [written guide](https://leetarxiv.substack.com/p/guessing-bits-improved-lattice-attacks).
+
